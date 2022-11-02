@@ -1,0 +1,20 @@
+.Amain{
+    display: flex;
+    flex-direction: column;
+}
+
+.Apphead{
+    position: relative;
+    justify-content: flex-start;
+    top: 0%;
+}
+
+.Appbody{
+    position: relative;
+}
+
+.Appfoot{
+    justify-content: flex-end;
+    position: relative;
+    bottom: 0%;
+}
